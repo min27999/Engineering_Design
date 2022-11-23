@@ -22,7 +22,7 @@
 #define _SERVO_ANGLE_DIFF 82 // Replace with |D - E| degree
 #define _SERVO_SPEED 1000 // servo speed limit (unit: degree/second)
 
-#define _BANGBANG_RANGE 200 //150
+#define _BANGBANG_RANGE 250 //150
 
 // global variables
 float dist_filtered, dist_ema, dist_target; // unit: mm
